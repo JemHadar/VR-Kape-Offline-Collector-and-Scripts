@@ -1,4 +1,4 @@
-This is an excellent presentation by Eric Capuano detailing the capabilities of Velociraptor in a full fledged live environment. I was just blown away how we can have the client give us access to the compromised environment, launch our VR server, have clients push out VR client agent to all endpoints and begin our DFIR investigation from the VR server.
+Below is an excellent presentation by Eric Capuano detailing the capabilities of Velociraptor in a full fledged live environment. I was just blown away how we can have the client give us access to the compromised environment, launch our VR server, have clients push out VR client agent to all endpoints and begin our DFIR investigation from the VR server.
 
 https://www.youtube.com/watch?v=Q1IoGX--814
 
