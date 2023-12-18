@@ -21,11 +21,8 @@ Finally, we can use Hayabusa's Windows event log fast forensics timeline generat
 
 Below is a video of Velociraptor with Kape Offline Collector and the scripts in action as well as the event log timeline.
 
+[![Watch the video](https://img.youtube.com/vi/0nzyJ7mJHAI/hqdefault.jpg)](https://youtu.be/0nzyJ7mJHAI)
 
-[![Watch the video](https://img.youtube.com/vi/0nzyJ7mJHAI/hqdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
- https://youtu.be/0nzyJ7mJHAI
-
- 
 Hayabusa was run on a sample of EVTX logs that displayed malicious activity.
 https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES
 
