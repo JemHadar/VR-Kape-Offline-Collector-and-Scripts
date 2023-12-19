@@ -39,13 +39,7 @@ I have placed Kape and modules as well as expander script for extractng and/or m
 -PsList<br>
 -autoruns<br>
 
-[Download Files]([https://drive.google.com/file/d/1G7MQqgLuaYXiASisIHNA5ZV5LV7a-XZG/view?usp=sharing])
-
-
-[Download Collector]([(https://drive.google.com/file/d/1G7MQqgLuaYXiASisIHNA5ZV5LV7a-XZG/view?usp=sharing)] "VR and Kape Offline Collector and Scripts")
-
-
-
+[Download Collector and Scripts](https://drive.google.com/file/d/1G7MQqgLuaYXiASisIHNA5ZV5LV7a-XZG/view?usp=sharing)
 
 
 
