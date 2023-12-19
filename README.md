@@ -34,12 +34,14 @@ Command that was run:
 
 I have placed Kape and modules as well as expander script for extractng and/or mounting multiple VHD files and Swisscom's Invoke-Forensics script for processing in one zip file for download. In the zip you will also find Velociraptor offline collector binary. The artifacts the binary will collect are:
 
--Windows.KapeFiles.Targets
--Netstat Enriched
--PsList
--autoruns
+-Windows.KapeFiles.Targets<br>
+-Netstat Enriched<br>
+-PsList<br>
+-autoruns<br>
 
-https://drive.google.com/file/d/1G7MQqgLuaYXiASisIHNA5ZV5LV7a-XZG/view?usp=sharing
+[Download Files]([https://drive.google.com/file/d/1G7MQqgLuaYXiASisIHNA5ZV5LV7a-XZG/view?usp=sharing])
+
+
 
 
 
