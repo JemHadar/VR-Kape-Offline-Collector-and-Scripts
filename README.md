@@ -42,6 +42,9 @@ I have placed Kape and modules as well as expander script for extractng and/or m
 [Download Files]([https://drive.google.com/file/d/1G7MQqgLuaYXiASisIHNA5ZV5LV7a-XZG/view?usp=sharing])
 
 
+[Download Collector]([(https://drive.google.com/file/d/1G7MQqgLuaYXiASisIHNA5ZV5LV7a-XZG/view?usp=sharing)] "VR and Kape Offline Collector and Scripts")
+
+
 
 
 
