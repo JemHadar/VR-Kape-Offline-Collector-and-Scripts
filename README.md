@@ -32,7 +32,12 @@ Command that was run:
 ./hayabusa-2.11.0-mac-arm csv-timeline -d ~/Downloads/tools/evtx_files/ -o results.csv -p super-verbose
 
 
-I have placed Kape and modules as well as expander script for extractng and/or mounting multiple VHD files and Swisscom's Invoke-Forensics script for processing in one zip file for download:
+I have placed Kape and modules as well as expander script for extractng and/or mounting multiple VHD files and Swisscom's Invoke-Forensics script for processing in one zip file for download. In the zip you will also find Velociraptor offline collector binary. The artifacts the binary will collect are:
+
+-Windows.KapeFiles.Targets
+-Netstat Enriched
+-PsList
+-autoruns
 
 https://drive.google.com/file/d/1G7MQqgLuaYXiASisIHNA5ZV5LV7a-XZG/view?usp=sharing
 
