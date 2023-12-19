@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=rqEjxZph96c
 
 Using Patterson's techinique, I decided to test it and the results were fast and quick. We can leverage an expander script that unpacks all Kape artifacts and mounts the VHD files and then run a second script to parse through all the mounted volumes and extract the artifacts courtesy of Swisscom (https://github.com/swisscom/Invoke-Forensics).
 
-Finally, we can use Hayabusa's Windows event log fast forensics timeline generator to create a forensic timeline from the event logs. Hayabusa uses Sigma as well as built-in rules to assess Windows Event Logs for known threats. Hayabusa can be run either on single running systems for live analysis, by gathering logs from single or multiple systems for offline analysis, or by running the Hayabusa artifact with Velociraptor for enterprise-wide threat hunting and incident response. 
+Finally, we can use Hayabusa's Windows event log fast forensics timeline generator to create a forensic timeline from the event logs. Hayabusa uses Sigma as well as built-in rules to assess Windows Event Logs for known threats. Hayabusa can be run either on single running systems for live analysis, by gathering logs from single or multiple systems for offline analysis, or by running the Hayabusa artifact with Velociraptor for enterprise-wide threat hunting and incident response. https://github.com/Yamato-Security/hayabusa#running-hayabusa
 
 
 Below is a video of Velociraptor with Kape Offline Collector and the scripts in action as well as the event log timeline.
