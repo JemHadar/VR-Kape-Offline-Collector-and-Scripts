@@ -13,6 +13,7 @@ Black Hills presentation by Patterson Cake shows how we can leverage VR and use 
 
 https://www.youtube.com/watch?v=rqEjxZph96c
 
+https://github.com/secure-cake/rapid-endpoint-investigations
 
 Using Patterson's techinique, I decided to test it and the results were fast and quick. We can leverage an expander script that unpacks all Kape artifacts and mounts the VHD files and then run a second script to parse through all the mounted volumes and extract the artifacts courtesy of Swisscom (https://github.com/swisscom/Invoke-Forensics).
 
